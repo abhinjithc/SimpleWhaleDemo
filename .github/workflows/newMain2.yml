@@ -1,4 +1,4 @@
-name: CI GIT T
+name: GIT CI MODIFIED
 # Controls when the workflow will run
 on:
   push:
